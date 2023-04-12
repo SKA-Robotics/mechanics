@@ -1,0 +1,5 @@
+﻿"outerdiameter"= 45
+"D6@Sketch1"="outerdiameter"
+"wallthick"= 2
+"D1@Sketch1"="wallthick"
+"D3@Sketch1"="wallthick"

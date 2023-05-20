@@ -1,5 +1,3 @@
-﻿"outerdiameter"= 45
-"D6@Sketch1"="outerdiameter"
+﻿"outerdiameter"= 30
 "wallthick"= 2
-"D1@Sketch1"="wallthick"
-"D3@Sketch1"="wallthick"
+"angle"= 35"innerdiam"= 14

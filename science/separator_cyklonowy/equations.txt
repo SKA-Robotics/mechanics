@@ -1,3 +1,0 @@
-﻿"outerdiameter"= 30
-"wallthick"= 2
-"angle"= 35"innerdiam"= 12

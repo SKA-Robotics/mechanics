@@ -1,4 +1,6 @@
 # Mechanika Łazika
 
+# System nazewnictwa
+tbd
 
-*proszę o zachowanie czystości* 
+# normalia (sruby, nakretki, inserty) wrzucac do dedykowanych folderow

@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-17102023-037048";"";
+"REFERENCE";"SSP1A1125BDE";"";
+"TraceParts.PartTitle";"1P SSR 125A@24-280VAC Zero,3-32VDC";"";
+"TraceParts.InstanceId";"90-17102023-03704878P2ST6ENTHNY6M228NL8S6AD";"";
+"SUPPLIER";"Schneider Electric";"";
+"DESIGN";"1P SSR 125A@24-280VAC Zero,3-32VDC";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

@@ -1,9 +1,9 @@
 [StartTime]
-sim-Static 1.MFC=17m:55s
+sim-Static 1.MFC=2m:45s
 [SolverState]
 sim-Static 1.MFC=2
 [MainFrame]
-sim-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+sim-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEJCAAAAAEKBAAAAAMPDAAAAAHHCAAAAA
 [ShowMin]
 sim-Static 1.MFC=No
 [SolverType]
@@ -13,4 +13,4 @@ sim-Static 1.MFC=0
 [StudyName]
 sim-Static 1.MFC=Static 1
 [Solver]
-sim-Static 1.MFC=Sparse
+sim-Static 1.MFC=Iterative

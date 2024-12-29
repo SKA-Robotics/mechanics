@@ -1,0 +1,12 @@
+﻿"in_d"=40
+"pipe_thick"=2
+"rod_angle"=20
+"rod_radius"=33.5
+"rod_diameter"=8
+"lin_bear_h"=24
+"screw_radius"=40
+"screw_angle"=50
+"lin_bearing_d"=15
+"drill_rod_pair"=37
+"support_rod_w"=50
+"vertical_slider_w"=65"vertical_slider_d"=20"slope_angle"=30

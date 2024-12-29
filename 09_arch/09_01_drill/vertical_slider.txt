@@ -1,0 +1,2 @@
+﻿"vertical_slider_w"=55
+"vertical_slider_d"=20
